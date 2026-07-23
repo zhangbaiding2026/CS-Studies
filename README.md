@@ -18,7 +18,7 @@
 
 - **Operating Systems:** Linux (Mint, Ubuntu), Windows, ChromeOS
 - **Virtualization & Systems:** VMware, VirtualBox, Terminal / Bash
-- **Languages & Tools:** Markdown, Git & GitHub, Shell Scripting
+- **Languages & Tools:** Markdown, Git & GitHub, python
 - **Software & Productivity:** Office 365, Accounting Systems (QuickBooks, Odoo)
 
 ---
